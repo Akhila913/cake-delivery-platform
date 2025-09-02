@@ -1,4 +1,5 @@
-# 🎂 DelightAPI - Cake Ordering Backend
+# 🎂 Cake Delivery Platform (DelightAPI)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Django](https://img.shields.io/badge/Django-5.0-green)
 ![DRF](https://img.shields.io/badge/DRF-3.14-orange)
